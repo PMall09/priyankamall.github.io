@@ -203,6 +203,9 @@ a
 
 
 /*id*/
+img {
+  border-radius: 50%;
+}
 
 #intro
 {
