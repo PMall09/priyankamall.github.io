@@ -89,7 +89,6 @@ a
   border-width: 10px 10px 10px 0;
   border-color: #343434;
 }
-
 /* Fix the circle for containers on the right side */
 .right::after {
   left: -16px;
