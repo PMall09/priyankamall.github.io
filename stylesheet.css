@@ -106,8 +106,7 @@ a
   .timeline::after {
   left: 31px;
   }
-  
-  /* Full-width containers */
+    /* Full-width containers */
   .container {
   width: 75%;
   padding-left: 70px;
