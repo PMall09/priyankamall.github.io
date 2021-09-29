@@ -79,7 +79,6 @@ a
   border-width: 10px 0 10px 10px;
   border-color:#343434;
 }
-
 /* Add arrows to the right container (pointing left) */
 .right::before {
   content: " ";
