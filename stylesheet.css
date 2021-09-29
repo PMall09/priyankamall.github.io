@@ -63,7 +63,6 @@ a
 .right {
   left: 50%;
 }
-
 /* Add arrows to the left container (pointing right) */
 .left::before {
   content: " ";
