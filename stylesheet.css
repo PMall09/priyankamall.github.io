@@ -178,11 +178,11 @@ a
 }
 /*id*/
 img {
-  border-radius: 400%;
+  border-radius: 100%;
 }
 #intro
 {
-  height:400px;
+  height:500px;
   color: #343434;
   font-size:30px;
   font-style:bold;
