@@ -9,7 +9,7 @@ body {
 h1
 {
   color:#343434;
-  font-size: 50px;
+  font-size: 100px;
 }
 a
 {
@@ -178,7 +178,7 @@ a
 }
 /*id*/
 img {
-  border-radius: 5%;
+  border-radius: 100%;
 }
 #intro
 {
@@ -214,7 +214,7 @@ img {
 }
 #photography
 {
-  height: 50px;
+  height: 100px;
   background-color: #EAEDED ;
 }
 #contact
