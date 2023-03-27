@@ -109,7 +109,7 @@ a
     /* Full-width containers */
   .container {
   width: 75%;
-  padding-left: 70px;
+  padding-left: 25px;
   padding-right: 25px;
   }
   /* Make sure that all arrows are pointing leftwards */
